@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHubers</string>
+    <string name="search">Cari User</string>
+    <string name="insert_username">Masukkan Username</string>
+    <string name="user_not_found">Username Tidak Ditemukan</string>
+    <string name="username">\@%s</string>
+    <string name="followers">%d\nFollowers</string>
+    <string name="following">%d\nFollowing</string>
+    <string name="repos">%d\nRepos</string>
+    <string name="hello_fragment">Hello %s fragment</string>
+    <string name="no_followers">%s tidak memiliki %s</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorite_empty">Favorite kosong!</string>
+    <string name="share">Bagikan</string>
+    <string name="home">Beranda</string>
+    <string name="detail">Detail</string>
+</resources>

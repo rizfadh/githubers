@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_10">#ff081c15</color>
+    <color name="green_20">#ff1b4332</color>
+    <color name="green_30">#ff2d6a4f</color>
+    <color name="green_40">#ff40916c</color>
+    <color name="green_50">#ff52b788</color>
+    <color name="green_60">#ff74c69d</color>
+    <color name="green_70">#ff95d5b2</color>
+    <color name="green_80">#ffb7e4c7</color>
+    <color name="green_90">#ffd8f3dc</color>
+    <color name="blue_10">#ff03045e</color>
+    <color name="blue_20">#ff023e8a</color>
+    <color name="blue_30">#ff0077b6</color>
+    <color name="blue_40">#ff0096c7</color>
+    <color name="blue_50">#ff00b4d8</color>
+    <color name="blue_60">#ff48cae4</color>
+    <color name="blue_70">#ff90e0ef</color>
+    <color name="blue_80">#ffade8f4</color>
+    <color name="blue_90">#ffcaf0f8</color>
+    <color name="gray_10">#111111</color>
+    <color name="gray_20">#222222</color>
+    <color name="gray_30">#333333</color>
+    <color name="gray_40">#444444</color>
+    <color name="gray_50">#555555</color>
+</resources>
